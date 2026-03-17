@@ -1,9 +1,11 @@
 import "./Banner.css";
 function Banner() {
   return (
-    //JSX
     <header className="banner">
-      <img src="/img/banner.png" alt="Banner principal da página do Organo." />
+      <img
+        src="   /img/banner.png"
+        alt="O banner principal da página do Organo"
+      />
     </header>
   );
 }
