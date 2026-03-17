@@ -1,5 +1,5 @@
 import "./Banner.css";
-function Banner() {
+export const Banner = () => {
   return (
     <header className="banner">
       <img
@@ -10,4 +10,4 @@ function Banner() {
   );
 }
 
-export default Banner;
+
